@@ -1,1 +1,1 @@
-echo ("frist php");
+<? echo ("first php");
